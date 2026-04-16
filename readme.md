@@ -9,6 +9,7 @@
 - Applying AI to achieve hyper-productivity in art creation
 
 ## Overview
+Explore text-to-image generative AI by creating your own art museum. You'll generate artwork, curate selections, and build an online gallery. This assignment demonstrates how AI can enhance creative productivity.
 
 ## Guidelines
 - Pick themes that interest you
